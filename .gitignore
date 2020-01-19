@@ -27,4 +27,5 @@ debug/gradlew*
 
 **/local.properties
 .gradle
+.idea
 
